@@ -1,0 +1,7 @@
+Source (benchmarks): https://paperswithcode.com/sota/music-source-separation-on-musdb18
+Check other models also for better performance
+Model-1 : demucs MODEL IS A FORK OF ULTIMATEVOCALREMOVER_API
+GIT LINK : https://github.com/facebookresearch/demucs
+Model-2 : BAND_SPLIT_RNN
+Ref. : https://paperswithcode.com/paper/music-source-separation-with-band-split-rnn 
+GIT LINK : https://github.com/crlandsc/music-demixing-with-band-split-rnn

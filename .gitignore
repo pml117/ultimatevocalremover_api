@@ -47,3 +47,5 @@ PKG-INFO
 requires.txt
 SOURCES.txt
 top_level.txt
+
+*.mp4
